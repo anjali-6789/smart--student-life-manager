@@ -1,28 +1,30 @@
+
 # Smart Student Life Manager
 
-A To-Do List application developed using C programming.
+A simple To-Do List application developed using the C programming language.
 
 ## Features
-- Add Tasks
-- View Tasks
-- Mark Tasks as Completed
-- Delete Tasks
-- Input Validation
+
+- Add a new task
+- View all tasks
+- Mark tasks as completed
+- Delete tasks
+- Simple menu-driven interface
 
 ## Technology Used
-- C Programming
-- GCC Compiler
 
-## How to Run
-1. Open the project in VS Code.
-2. Open the terminal.
-3. Compile using:
+- C Programming Language
 
-   gcc main.c -o main.exe
+## How It Works
 
-4. Run using:
+The application runs in the terminal. Users can manage their daily tasks through a simple menu.
 
-   .\main.exe
+Tasks are stored temporarily while the program is running. They are not saved permanently.
 
-## Note
-Tasks are stored temporarily while the program is running.
+## Project Purpose
+
+The purpose of this project is to help students organize and manage their daily activities and tasks.
+
+## Developed By
+
+Anjali Kumari
